@@ -14,4 +14,4 @@ that each cover an essential limitation of vanilla LoRA. Figure 1 gives an
 overview of the variants discussed in this project report.
 
 
-[![Read Thesis](https://img.shields.io/badge/PDF-Read%20Thesis-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/ArghaSarker/A-discussion-of-LoRA-DyLoRA-QLoRA-and-LoRA-/blob/main/A%20discussion%20of%20LoRA%20DyLoRA%20QLoRA%20and%20LoRA%20%2B.pdf)
+[![Rear the Project Paper](https://img.shields.io/badge/PDF-Read%20Thesis-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/ArghaSarker/A-discussion-of-LoRA-DyLoRA-QLoRA-and-LoRA-/blob/main/A%20discussion%20of%20LoRA%20DyLoRA%20QLoRA%20and%20LoRA%20%2B.pdf)
